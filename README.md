@@ -12,7 +12,7 @@ Nesse propjeto e possivel usar Serverles atraves do Framework Serverless Framewo
 2. Instalar Serverless Framework
 3. Clone o Projeto via terminal e entre na pasta do projeto
 4. Execute o comando 'serverless deploy'
-5. Execute o comando 'serverless invoke --function hello'
+5. Execute o comando 'serverless invoke --function helloworldserverless'
 
 ## Expert
 
