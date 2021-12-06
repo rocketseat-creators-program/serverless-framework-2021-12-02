@@ -1,22 +1,23 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Título
+# Hello World Serverless AWS
 
-Introdução ao seu projeto. Apresentado por [Seu nome][1].
+Nesse propjeto e possivel usar Serverles atraves do Framework Serverless Framework. Apresentado por Rodrigo Neri[1].
 
 > __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
 
 ## Instalação
 
-1. Use este template
-2. Edite o README.md
-3. Adicione seus arquivos
+1. Necessario intalar AWS CLI
+2. Instalar Serverless Framework
+3. Execute o comando 'serverless deploy'
+4. Execute o comando 'serverless invoke --function hello'
 
 ## Expert
 
-| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
+| [<img src="https://avatars.githubusercontent.com/u/9269696?v=4" width="75px;"/>][1] |
 | :-: |
 |[Creator][1]|
 
 
-[1]: https://seusite.com.br
+[1]: https://github.com/rodrigogregorioneri
