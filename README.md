@@ -2,7 +2,7 @@
 
 # Hello World Serverless AWS
 
-Nesse propjeto e possivel usar Serverles atraves do Framework Serverless Framework. Apresentado por Rodrigo Neri[1].
+Nesse projeto e possivel usar Serverles atraves do Framework Serverless Framework. Apresentado por Rodrigo Neri[1].
 
 
 ## Instalação
