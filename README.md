@@ -17,7 +17,7 @@ Nesse propjeto e possivel usar Serverles atraves do Framework Serverless Framewo
 
 | [<img src="https://avatars.githubusercontent.com/u/9269696?v=4" width="75px;"/>][1] |
 | :-: |
-|[Creator][1]|
+|[Rodrigo Neri][1]|
 
 
 [1]: https://github.com/rodrigogregorioneri
